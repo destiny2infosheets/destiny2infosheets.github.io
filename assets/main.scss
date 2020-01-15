@@ -1,0 +1,17 @@
+---
+---
+@import "minima";
+
+@media print {
+	.no-print {
+		display: none;
+	}
+
+	body > *:not(.page-content) {
+		display: none;
+	}
+
+	@page {
+		margin: 0;
+	}
+}
