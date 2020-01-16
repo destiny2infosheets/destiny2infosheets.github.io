@@ -14,6 +14,11 @@
 	@page {
 		margin: 0;
 	}
+
+	body {
+		/* Minima's default is 'flex', which makes Firefox print only first page :( */
+		display: block;
+	}
 }
 
 @import "wall_of_wishes";

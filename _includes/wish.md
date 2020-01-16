@@ -22,7 +22,7 @@
 
 {% for line in lines %}
 {% assign symbols = line | split: " " %}{% for symbol in symbols -%}
-| <img src="/assets/img/last_wish_symbols.png" style="object-fit: cover; object-position: -{{ symbol | times: 85 }}px; height: 85px; width:85px; zoom:0.45;"> {% endfor %}
+| {% if symbol == "0" %}&nbsp;{% else %}<img src="/assets/img/last_wish_symbol{{ symbol }}.png">{% endif %} {% endfor %}
 {%- endfor %}
 {:.wish-table}
 

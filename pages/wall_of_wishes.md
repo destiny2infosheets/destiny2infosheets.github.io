@@ -7,6 +7,11 @@ page with your browser. To get a smaller version while printing on standard
 paper select appropriate number for "Pages per sheet" option in printing dialog.
 {:.no-print}
 
+Note: rendering for printing in Firefox is... not great. I've tried my best to
+make it cooperate, but there are still some issues. If you're using Firefox,
+check print preview carefully and, if it's bad, try a different browser.
+{:.no-print}
+
 Credits: [https://www.reddit.com/r/DestinyTheGame/comments/9hl41l/infographic_wall_of_wishes_patterns_locations_and/](https://www.reddit.com/r/DestinyTheGame/comments/9hl41l/infographic_wall_of_wishes_patterns_locations_and/)
 {:.no-print}
 
