@@ -7,3 +7,4 @@ handy while playing Destiny 2.
 Here's current list:
 
 * [Wall of wishes](/pages/wall_of_wishes.md)
+* [Pit of Heresy](/pages/pit_of_heresy.md)
